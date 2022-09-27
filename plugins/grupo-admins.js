@@ -15,7 +15,7 @@ ${listAdmin}
 𝙐𝙨𝙖𝙧 𝙚𝙡 𝙘𝙖𝙨𝙤 𝙙𝙚 𝙚𝙢𝙚𝙧𝙜𝙚𝙣𝙘𝙞𝙖
 ╰━━━━━━[ *𓃠 ${vs}* ]━━━━━⬣`.trim()
 
-conn.sendHydrated(m.chat, text, `𝙖𝙙𝙢𝙞𝙣𝙨 | ${wm}`, pp, 'https://github.com/elrebelde21/The-LoliBot-MD', 'Poto-Bot', null, null, [
+conn.sendHydrated(m.chat, text, `𝙖𝙙𝙢𝙞𝙣𝙨 | ${wm}`, pp, 'https://github.com/PotoBot/Poto-Bot-V2.git', 'Poto-Bot', null, null, [
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘', '.menu']
 ], m, false, { mentions: [...groupAdmins.map(v => v.id), owner] })
 
