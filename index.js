@@ -21,7 +21,7 @@ say('Loli\nBot\nMD', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`Por LoliBot`, {
+say(`Por Mini Poto`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
